@@ -5,7 +5,11 @@
     "description": "Check"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "jazz"
+      }
+    ],
     "diagrams": [
       {
         "title": "diagram",
